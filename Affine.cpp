@@ -1,10 +1,3 @@
-/*
- * Affine.h
- *
- *  Created on: Jan 1, 2011
- *      Author: root
- */
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
