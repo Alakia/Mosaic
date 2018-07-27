@@ -1,8 +1,3 @@
-// This is the main project file for VC++ application project
-// generated using an Application Wizard.
-
-// $Id: regtest.cpp,v 1.3 2005/05/16 17:51:54 dhirvone Exp $
-
 #include <opencv2/opencv.hpp>
 
 #include <stdlib.h>
