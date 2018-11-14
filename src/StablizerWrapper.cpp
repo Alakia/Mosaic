@@ -1,5 +1,5 @@
-#include "StablizerWrapper.h"
-#include "Stablizer.h"
+#include "../include/StablizerWrapper.h"
+#include "../include/Stablizer.h"
 #include <opencv2/opencv.hpp>
 
 // wrapper class

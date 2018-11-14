@@ -2,9 +2,9 @@
 
 #include <stdlib.h>
 #include <math.h>
-#include "CommonDefines.h"
-#include "Affine.h"
-#include "StablizerWrapper.h"
+#include "../include/CommonDefines.h"
+#include "../include/Affine.h"
+#include "../include/StablizerWrapper.h"
 
 using namespace cv;
 using namespace std;

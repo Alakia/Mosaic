@@ -1,7 +1,7 @@
 
 #include <math.h>
 #include <stdio.h>
-#include "gaussj.h"
+#include "../include/gaussj.h"
 
 #define SWAP(a,b) {temp=(a);(a)=(b);(b)=temp;}
 

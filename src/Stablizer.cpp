@@ -1,10 +1,10 @@
 // Stablizer.cpp : implementation file
 //
 
-#include "Affine.h"
+#include "../include/Affine.h"
 
-#include "reg.h"
-#include "Stablizer.h"
+#include "../include/reg.h"
+#include "../include/Stablizer.h"
 #include <math.h>
 #include <stdio.h>
 #include <stdlib.h>

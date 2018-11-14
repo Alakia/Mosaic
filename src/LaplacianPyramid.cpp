@@ -7,7 +7,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <memory.h>
-#include "LaplacianPyramid.h"
+#include "../include/LaplacianPyramid.h"
 #include "math.h"
 
 #define LOW_V		0.4142		// 0.4142 to be 22.5 degree

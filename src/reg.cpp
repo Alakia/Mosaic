@@ -1,13 +1,13 @@
 
-#include "Affine.h"
-#include "LaplacianPyramid.h"
+#include "../include/Affine.h"
+#include "../include/LaplacianPyramid.h"
 
-#include "reg.h"
+#include "../include/reg.h"
 
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
-#include "gaussj.h"
+#include "../include/gaussj.h"
 
 // global delta motion calculation function
 //void DeltaMotion(short *Ix, short *Iy, short *It, int img_width, int img_height, ROI &roi, int level, MOTION_TYPE type,	float m_Winv[MAX_LEVELS][6][6], float m_WTinv[MAX_LEVELS][2][2], Affine &dA);
